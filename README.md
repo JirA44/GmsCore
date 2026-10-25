@@ -1,3 +1,13 @@
+## Français
+
+Implémentation libre de services compatibles avec Google Play Services, issue du projet microG. Exemple : étudier la compatibilité Android ou contribuer aux composants ; les résultats varient selon l’appareil et les services utilisés.
+
+## English
+
+Free implementation of services compatible with Google Play Services, from the microG project. Example: study Android compatibility or contribute to components; results vary by device and services used.
+
+---
+
 # microG Services
 
 [![Build status](https://github.com/microg/GmsCore/actions/workflows/build.yml/badge.svg)](https://github.com/microg/GmsCore/actions/workflows/build.yml)
